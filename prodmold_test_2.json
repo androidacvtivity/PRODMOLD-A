@@ -1499,17 +1499,7 @@
             "weight": "0",
             "language": "und"
         },
-        {
-            "tid": "15803",
-            "code": "081222500",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Alte argile pentru constructii",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
+  
         {
             "tid": "18580",
             "code": "325023000",
@@ -3446,17 +3436,7 @@
             "weight": "0",
             "language": "und"
         },
-        {
-            "tid": "15867",
-            "code": "101314609",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Alte mezeluri, exclusiv din ficat (exclusiv alimente si preparate alimentare)",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
+
         {
             "tid": "15807",
             "code": "089929000",
@@ -9893,17 +9873,7 @@
             "weight": "0",
             "language": "und"
         },
-        {
-            "tid": "15827",
-            "code": "101139300",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Carne si organe comestibile de iepure, vinat si alte animale, proaspete, refrigerate sau congelate",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
+
         {
             "tid": "16671",
             "code": "172313700",
@@ -14678,28 +14648,7 @@
             "weight": "0",
             "language": "und"
         },
-        {
-            "tid": "15852",
-            "code": "101220800",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Ficati de pasare congelati",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
-        {
-            "tid": "15842",
-            "code": "101210400",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Ficati grasi de gisca si rata, proaspeti sau refrigerati",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
+
         {
             "tid": "15887",
             "code": "102016000",
@@ -14733,17 +14682,7 @@
             "weight": "0",
             "language": "und"
         },
-        {
-            "tid": "15881",
-            "code": "102011000",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "File de peste si carne de peste, dezosata, proaspata sau refrigerata",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
+
         {
             "tid": "15885",
             "code": "102014000",
@@ -20167,28 +20106,8 @@
             "weight": "0",
             "language": "und"
         },
-        {
-            "tid": "15855",
-            "code": "101240500",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Maruntaie de pasare congelate (excl. ficat)",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
-        {
-            "tid": "15854",
-            "code": "101240200",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Maruntaie de pasare proaspete sau refrigerate (exclusiv ficat de gisca sau rata)",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
+
+
         {
             "tid": "18476",
             "code": "310210003",
@@ -22653,39 +22572,8 @@
             "weight": "0",
             "language": "und"
         },
-        {
-            "tid": "15865",
-            "code": "101314603",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Mezeluri afumate, exclusiv din ficat (exclusiv alimente si preparate alimentare)",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
-        {
-            "tid": "15866",
-            "code": "101314604",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Mezeluri din carne de cabaline, exclusiv din ficat (exclusiv alimente si preparate alimentare)",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
-        {
-            "tid": "15864",
-            "code": "101314602",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Mezeluri semiafumate, exclusiv din ficat (exclusiv alimente si preparate alimentare)",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
+
+
         {
             "tid": "16911",
             "code": "239919500",
@@ -27691,17 +27579,7 @@
             "weight": "0",
             "language": "und"
         },
-        {
-            "tid": "15795",
-            "code": "081212300",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Pietre concasate pentru fabricarea betonului, pietruirea drumurilor si alte utilizari in constructie",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
+
         {
             "tid": "15805",
             "code": "089921000",
@@ -31772,17 +31650,7 @@
             "weight": "0",
             "language": "und"
         },
-        {
-            "tid": "15863",
-            "code": "101314601",
-            "unitatea_mas": "t",
-            "vid": "26",
-            "name": "Salamuri, crenvursti si cirnaciori, exclusiv din ficat (exclusiv alimente si preparate alimentare)",
-            "description": null,
-            "format": null,
-            "weight": "0",
-            "language": "und"
-        },
+
         {
             "tid": "16377",
             "code": "141324550",
