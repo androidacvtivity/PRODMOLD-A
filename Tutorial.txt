@@ -1,0 +1,12 @@
+Sarcina -
+ --------Trebuie de actualizat clasificatorul  PRODMOLD-A pe edecbns-test.sfs.md
+
+ Se da:
+ 1. clasificatorul  nou este in fisier excel
+ 2. clasificatorul pe edecbns-test.sfs.md este in format  json - Denumirea este -  prodmold
+ 3. Pe  edecbns-test.sfs.md clasificatorul prodmold se poate exporta in format  json
+
+
+
+
+1. Trebuie sa creiezi tabel in Oracke 

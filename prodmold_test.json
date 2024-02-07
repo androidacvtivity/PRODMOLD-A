@@ -1,0 +1,98 @@
+ 
+
+{
+    "name": "Nomenclatorul de produse si servicii industriele PRODMOLD (lista 2013) pentru cercetarile din anul 2015",
+    "machine_name": "prodmold",
+    "description": null,
+    "hierarchy": "0",
+    "module": "taxonomy",
+    "weight": "10",
+    "language": "und",
+    "i18n_mode": "0",
+    "base_i18n_mode": "0",
+    "base_language": "und",
+    "fields": {
+        "1": {
+            "fid": "1",
+            "name": "code",
+            "title": "Code",
+            "type": "",
+            "disabled": "0",
+            "required": "0",
+            "weight": "-1",
+            "default_value": "",
+            "options": null,
+            "translated_title": "Cod"
+        },
+        "13": {
+            "fid": "13",
+            "name": "unitatea_mas",
+            "title": "Unit",
+            "type": "",
+            "disabled": "0",
+            "required": "0",
+            "weight": "0",
+            "default_value": "",
+            "options": null,
+            "translated_title": "Unitatea de m\u0103sur\u0103"
+        }
+    },
+    "terms": [
+        {
+            "tid": "17840",
+            "code": "279040100",
+            "unitatea_mas": "kg",
+            "vid": "26",
+            "name": "Acceleratoare de particule",
+            "description": null,
+            "format": null,
+            "weight": "0",
+            "language": "und"
+        },
+        {
+            "tid": "17067",
+            "code": "244226700",
+            "unitatea_mas": "kg",
+            "vid": "26",
+            "name": "Accesorii de tevarie din aluminiu (racorduri, coturi, mansoane, flanse etc.)",
+            "description": null,
+            "format": null,
+            "weight": "0",
+            "language": "und"
+        },
+        {
+            "tid": "17091",
+            "code": "244426500",
+            "unitatea_mas": "kg",
+            "vid": "26",
+            "name": "Accesorii de tevarie din cupru",
+            "description": null,
+            "format": null,
+            "weight": "0",
+            "language": "und"
+        },
+        {
+            "tid": "17026",
+            "code": "242040500",
+            "unitatea_mas": "kg",
+            "vid": "26",
+            "name": "Accesorii de tevarie din otel, nefiletate, nesudate si neturnate",
+            "description": null,
+            "format": null,
+            "weight": "0",
+            "language": "und"
+        },
+        {
+            "tid": "17025",
+            "code": "242040300",
+            "unitatea_mas": "kg",
+            "vid": "26",
+            "name": "Accesorii de tevarie filetate din otel, neturnate",
+            "description": null,
+            "format": null,
+            "weight": "0",
+            "language": "und"
+        }
+        
+    ]
+}
