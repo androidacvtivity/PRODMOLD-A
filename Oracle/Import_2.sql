@@ -1,22 +1,22 @@
-
-    INSERT INTO  USER_BANCU.CL_PRODMOLD_2 
-    
-    (
-    tid,
-    CODE,
-    unitatea_mas,
-    vid, 
-    NAME,
-    DESCRIPTION,
-    FORMAT,
-    weight,
-    language 
-    )
+--
+--    INSERT INTO  USER_BANCU.CL_PRODMOLD_FINAL 
+--    
+--    (
+--    tid,
+--    CODE,
+--    unitatea_mas,
+--    vid, 
+--    NAME,
+--    DESCRIPTION,
+--    FORMAT,
+--    weight,
+--    language 
+--    )
 
 
     SELECT 
     
-    ROWNUM tid,
+    tid,
     CODE,
     unitatea_mas,
     26 vid, 
@@ -26,4 +26,8 @@
     '0' weight,
     'und 'language  
     
-    FROM USER_BANCU.CL_PRODMOLD
+    FROM USER_BANCU.CL_PRODMOLD_2
+    
+    
+    ORDER BY 
+    TO_NUMBER(tid)

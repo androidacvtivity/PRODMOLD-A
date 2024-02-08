@@ -1,4 +1,22 @@
+SELECT 
+    tid,
+    CODE,
+    unitatea_mas,
+    vid, 
+    NAME,
+    DESCRIPTION,
+    FORMAT,
+    weight,
+    language
+FROM prodmold_fisc_2;
 
 SELECT 
+	COUNT(*) AS CNT
+FROM prodmold_fisc;
 
-FROM cl_prodmold_fisc_1
+
+
+DELETE
+FROM prodmold_fisc;
+
+
