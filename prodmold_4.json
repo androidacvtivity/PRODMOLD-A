@@ -1,8 +1,8 @@
  
 
 {
-    "name": "Nomenclatorul de produse si servicii industriele PRODMOLD (lista 2015) pentru cercetarile din anul 2024",
-    "machine_name": "prodmold",
+    "name": "Nomenclatorul de produse si servicii industriele PRODMOLD (lista 2013) pentru cercetarile din anul 2023",
+    "machine_name": "prodmold_24",
     "description": null,
     "hierarchy": "0",
     "module": "taxonomy",
@@ -39,6 +39,17 @@
     },
     "terms": [
         
-       
+       {
+     "tid": "7",
+    "CODE": "081111500",
+    "unitatea_mas": "t",
+    "vid": 26,
+    "NAME": "Ecausin si alte pietre calcaroase pentru cioplit sau pentru constructii cu greutatea specifica ≥2,5",
+    "DESCRIPTION": null,
+    "FORMAT": null,
+    "weight": "0",
+    "language": "und"
+    }
+  
     ]
 }
