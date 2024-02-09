@@ -1,4 +1,4 @@
--- INSERT INTO cl_prodmold_fisc_1
+-- INSERT INTO prodmold_fisc_2
 -- (
 --     tid,
 --     CODE,
@@ -12,13 +12,18 @@
 -- )
 
 SELECT 
-     1900 + ROW_NUMBER() OVER () AS tid,
-    CODE,
+    -- 1900 + ROW_NUMBER() OVER () AS tid,
+    tid,
+    code,
     unitatea_mas,
     26 AS vid, 
-    NAME,
-    NULL AS DESCRIPTION,
-    NULL AS FORMAT,
+    name,
+    NULL AS description,
+    NULL AS format,
     '0' AS weight,
     'und' AS language  
-FROM cl_prodmold_fisc
+FROM prodmold_fisc
+
+
+ORDER BY 
+ CAST(tid AS UNSIGNED);

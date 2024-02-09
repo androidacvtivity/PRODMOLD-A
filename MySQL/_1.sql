@@ -1,5 +1,5 @@
-CREATE TABLE CL_PRODMOLD_FISC_2 (
-    tid INT,
+CREATE TABLE PRODMOLD_FISC (
+    tid VARCHAR(255),
     code VARCHAR(255),
     unitatea_mas VARCHAR(255),
     vid VARCHAR(255),
